@@ -1,0 +1,10 @@
+canvas {
+    border:5px solid #0e0c0c;
+    position:absolute; left:200px; top:100px;
+};
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    position:relative; left:400px;
+};
